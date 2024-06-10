@@ -4,14 +4,14 @@
 
 ## DOCUMENTATION DU PROJET SMART-HOME RÉALISER PAR LES ETUDIANTS D'ESEO2-TOGO 
 
-ce projet à éte réaliser par :
-* ATADEGNON KODJO PIERRE : katadegnon@efecourslumiere.org
-* AWENA PIRENA ODETTE : pirawe@efecourslumiere.org
-* GNASSINBGE EMILIE : egnassingbe@efecourslumiere.org
-* LEENAERTS LOIC HARRY :hleenaerts@efecourslumiere.org
-* MEGUIDA ADEBAYO MOURAD :ameguida@efecourslumiere.org
-* NONVIGNON KOKOU KENNETH :knonvignon@efecourslumiere.org
-* NADJOMBE ADAMA :adamna@efecourslumiere.org
+Ce projet à été réalisé par :
+* ATADEGNON Kodjo Pierre : katadegnon@efecourslumiere.org
+* AWENA Pirena Odette : pirawe@efecourslumiere.org
+* GNASSINBGE Emilie Koboyo : egnassingbe@efecourslumiere.org
+* LEENAERTS Loïc Harry :hleenaerts@efecourslumiere.org
+* MEGUIDA Adebayo Mourad :ameguida@efecourslumiere.org
+* NONVIGNON Kadoukpè Kenneth :knonvignon@efecourslumiere.org
+* NADJOMBE Adama :adamna@efecourslumiere.org
 
 ## Image de la maison / Vidéo
 
@@ -19,9 +19,9 @@ ce projet à éte réaliser par :
 
   ## Description du projet 
 
-La **smart home**, également connue sous le nom de **maison intelligente**, est un concept qui intègre les nouvelles technologies pour améliorer le confort des occupants. Dans une smart home, les appareils sont connectés entre eux, et leur contrôle est centralisé. Par des **Technologies avancées** comme l'intelligence artificielle, la reconnaissance vocale ou faciale, et la lecture des empreintes digitales pour faciliter la vie quotidienne ensuite par la **Communication entre appareils** Les différents équipements (ampoules, volets, prises, thermostats, etc.) communiquent entre eux via un réseau de communication. Cela permet un contrôle à distance et une automatisation des tâches. Également, par **Confort personnalisé** : Grâce à la mise en place de scénarios et de régulations pièce par pièce, la smart home s'adapte aux besoins spécifiques de chaque occupant. Elle anticipe les besoins en termes de climat intérieur, de sécurité, et de gestion énergétique.  **Collaboration avec différents corps de métiers** : La mise en place d'une smart home nécessite une réflexion dès les premiers plans de construction. Elle implique une coordination avec l'architecte, le constructeur, le menuisier, le chauffagiste, l'électricien, et le plombier pour intégrer les capteurs, les systèmes de régulation, et les vannes commandées.
+La **Smart Home**, également connue sous le nom de **maison intelligente**, est un concept qui intègre les nouvelles technologies pour améliorer le confort des occupants. Dans une **Smart Home**, les appareils sont connectés entre eux, et leur contrôle est centralisé par des **Technologies avancées** comme l'intelligence artificielle, la reconnaissance vocale ou faciale, et la lecture des empreintes digitales pour faciliter la vie quotidienne ensuite par la **Communication entre appareils**. Les différents équipements (ampoules, volets, prises, thermostats, etc.) communiquent entre eux via un réseau de communication. Cela permet un contrôle à distance et une automatisation des tâches. Également, par **Confort personnalisé** : Grâce à la mise en place de scénarios et de régulations pièce par pièce, la smart home s'adapte aux besoins spécifiques de chaque occupant. Elle anticipe les besoins en termes de climat intérieur, de sécurité, et de gestion énergétique.  **Collaboration avec différents corps de métiers** : La mise en place d'une smart home nécessite une réflexion dès les premiers plans de construction. Elle implique une coordination avec l'architecte, le constructeur, le menuisier, le chauffagiste, l'électricien, et le plombier pour intégrer les capteurs, les systèmes de régulation, et les vannes commandées.
 
-En somme, la smart home vise à rendre notre quotidien plus pratique, confortable et économe en énergie, tout en utilisant les dernières avancées technologiques
+En somme, la **Smart Home** vise à rendre notre quotidien plus pratique, confortable et économe en énergie, tout en utilisant les dernières avancées technologiques.
 
 
 
@@ -48,7 +48,7 @@ La smart home se définit comme une habitation équipée de systèmes automatis�
 
 En examinant les différentes technologies impliquées, la communication entre appareils et l'importance d'une collaboration multidisciplinaire dans la conception des smart homes, cette documentation vise à démontrer comment l'intégration de ces éléments peut significativement améliorer la qualité de vie. Nous analyserons également les implications de cette technologie pour la durabilité et l'efficacité énergétique, soulignant ainsi son rôle potentiel dans la promotion d'un avenir plus durable.
 
-## objectifs du projet 
+## Objectifs du projet 
 
 L'objectif de ce rapport est de fournir une analyse approfondie du concept de smart home, ou maison intelligente, en examinant comment l'intégration de technologies avancées peut améliorer significativement le confort, la sécurité et l'efficacité énergétique des habitats. La documentation vise à :
 
@@ -152,8 +152,6 @@ grâce au capteur ACS712 .
 * Site web de la maison
   
 ![interface_sh](https://github.com/9Pierrot/SMART-HOME/assets/162814424/b0619bb5-c7fd-4d16-99da-00b95ea00b48)
-
-
 
 
 
